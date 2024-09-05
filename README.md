@@ -29,7 +29,8 @@
 
 ### Yêu cầu 
 <p>AI: Gợi ý sản phẩm theo nội dung  </p>
-<p>Ngôn ngữ: C#, PHP </p>
+<p>Web: PHP</p>
+<p>Ngôn ngữ: PHP </p>
 <p>Framework: Laravel</p>
 
 <p>Nghiệp vụ</p>
