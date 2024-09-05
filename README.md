@@ -1,13 +1,11 @@
 # Thành viên
-<h4>Tên nhóm: Sea  </h4>
-
->>**Thầy  Bùi Công Danh**
+<h4>Tên nhóm: Hello</h4>
   
 | STT | Họ tên | Chức vụ  |
 |----------------|--------------------|--------------------|
-|  1  |  Trần Ngọc Hiếu Thảo  |   Nhóm trưởng  |
-|  2  |  Nguyễn Đức Phát  |   Thành viên  |
-|  3  |  Dương Thị Phương Thi  |   Thành viên  |
+|  1  |  Ngô Hoàng Thông   |   Nhóm trưởng  |
+|  2  |  Huỳnh Phước Sang  |   Thành viên  |
+|  3  |  Nguyễn Khách Duy  |   Thành viên  |
 -----------------------------------------------
 ### Sử dụng 
  - .Net Framework version 4.8
