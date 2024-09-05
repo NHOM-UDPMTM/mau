@@ -21,14 +21,16 @@
 ## Phần mềm quản lý shop quần áo
 
 <h5>Mô tả Dự án:</h5> 
-<p>Phần mềm Quản lý Shop Quần Áo là một hệ thống ứng dụng đa nền tảng được thiết kế để hỗ trợ các cửa hàng quần áo trong việc quản lý hàng hóa, bán hàng, và chăm sóc khách hàng một cách hiệu quả và linh hoạt. Hệ thống này bao gồm cả giao diện web và ứng dụng di động, giúp người dùng dễ dàng quản lý mọi hoạt động liên quan đến kinh doanh thời trang từ bất kỳ đâu và vào bất kỳ thời điểm nào.</p> <p>Với khả năng truy cập qua mạng, phần mềm cung cấp một môi trường quản lý hiện đại, giúp các chủ cửa hàng tổ chức và theo dõi hàng hóa, đơn hàng, và khách hàng một cách thuận tiện. Các tính năng chính của phần mềm bao gồm quản lý kho, điểm bán hàng (POS), và phân tích doanh thu. Điều này không chỉ tiết kiệm thời gian mà còn giúp nâng cao hiệu quả công việc và giảm thiểu lỗi trong quá trình quản lý.</p> <p>Người dùng có thể dễ dàng thêm mới sản phẩm, theo dõi tình trạng tồn kho, và thực hiện các giao dịch bán hàng thông qua một giao diện trực quan và dễ sử dụng. Các công cụ báo cáo và phân tích tích hợp sẽ cung cấp cái nhìn sâu sắc về doanh số bán hàng, hiệu suất của các sản phẩm, và hành vi mua sắm của khách hàng, từ đó giúp chủ shop đưa ra các quyết định kinh doanh thông minh hơn.</p> <p>Phần mềm cũng hỗ trợ quản lý khách hàng với tính năng lưu trữ thông tin liên hệ, theo dõi lịch sử mua sắm và quản lý chương trình khuyến mãi. Nhờ đó, cửa hàng có thể cung cấp dịch vụ khách hàng tốt hơn và xây dựng mối quan hệ lâu dài với khách hàng.</p> <p>Với phần mềm Quản lý Shop Quần Áo, các chủ cửa hàng không chỉ có được một công cụ quản lý hiệu quả mà còn trải nghiệm sự linh hoạt và tiện ích của công nghệ trong việc tối ưu hóa hoạt động kinh doanh và nâng cao trải nghiệm mua sắm của khách hàng.</p>
+<p>Phần mềm Quản lý Shop Quần Áo là một hệ thống ứng dụng đa nền tảng được thiết kế để hỗ trợ các cửa hàng quần áo trong việc quản lý hàng hóa, bán hàng, và chăm sóc khách hàng một cách hiệu quả và linh hoạt. Hệ thống này bao gồm cả giao diện web và ứng dụng di động, giúp người dùng dễ dàng quản lý mọi hoạt động liên quan đến kinh doanh thời trang từ bất kỳ đâu và vào bất kỳ thời điểm nào.</p>
+
+<p>Với khả năng truy cập qua mạng, phần mềm cung cấp một môi trường quản lý hiện đại, giúp các chủ cửa hàng tổ chức và theo dõi hàng hóa, đơn hàng, và khách hàng một cách thuận tiện. Các tính năng chính của phần mềm bao gồm quản lý kho, điểm bán hàng (POS), và phân tích doanh thu. Điều này không chỉ tiết kiệm thời gian mà còn giúp nâng cao hiệu quả công việc và giảm thiểu lỗi trong quá trình quản lý.</p> <p>Người dùng có thể dễ dàng thêm mới sản phẩm, theo dõi tình trạng tồn kho, và thực hiện các giao dịch bán hàng thông qua một giao diện trực quan và dễ sử dụng. Các công cụ báo cáo và phân tích tích hợp sẽ cung cấp cái nhìn sâu sắc về doanh số bán hàng, hiệu suất của các sản phẩm, và hành vi mua sắm của khách hàng, từ đó giúp chủ shop đưa ra các quyết định kinh doanh thông minh hơn.</p> 
+<p>Phần mềm cũng hỗ trợ quản lý khách hàng với tính năng lưu trữ thông tin liên hệ, theo dõi lịch sử mua sắm và quản lý chương trình khuyến mãi. Nhờ đó, cửa hàng có thể cung cấp dịch vụ khách hàng tốt hơn và xây dựng mối quan hệ lâu dài với khách hàng.</p>
+<p>Với phần mềm Quản lý Shop Quần Áo, các chủ cửa hàng không chỉ có được một công cụ quản lý hiệu quả mà còn trải nghiệm sự linh hoạt và tiện ích của công nghệ trong việc tối ưu hóa hoạt động kinh doanh và nâng cao trải nghiệm mua sắm của khách hàng.</p>
 
 ### Yêu cầu 
-<p>AI: Gợi ý loại sách theo nội dung  </p>
-
-<p>Web: MVC ASP, LinQ</p>
-<p>Ngôn ngữ: Javascript, C# </p>
-<p>Framework: Bootstrap</p>
+<p>AI: Gợi ý sản phẩm theo nội dung  </p>
+<p>Ngôn ngữ: C#, PHP </p>
+<p>Framework: Laravel</p>
 
 <p>Nghiệp vụ</p>
 
