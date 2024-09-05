@@ -18,7 +18,7 @@
 -----------------------------------------------
 # Dự án
 
-## Đề tài
+## Phần mềm quản lý shop quần áo
 
 <h5>Mô tả dự án: </h5>
 <p>Ebook là một hệ thống ứng dụng đa nền tảng cho phép người dùng đọc sách điện tử (ebook) trực tuyến. Hệ thống này sẽ mở ra khả năng đọc sách trực tuyến qua giao diện web, đồng thời cung cấp một ứng dụng tiện lợi để quản lý sách một cách hiệu quả.</p>
